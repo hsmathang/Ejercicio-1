@@ -465,7 +465,7 @@ ul.service-list li i {
   backface-visibility: hidden;
   -webkit-transition: all 2s;
   -moz-transition: all 2s;
-  transition: all 2s
+  transition: all 5s
 }
 
 .portfolio-item figure:hover img, figure.hover img {
