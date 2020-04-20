@@ -451,7 +451,7 @@ ul.service-list li i {
   height: 100%;
   padding: 59px 30px;
   background-color: #BE9E21;
-  backface-visibility: hidden;
+  backface-visibility: visible;
   -webkit-transform: rotateY(-180deg);
   -moz-transform: rotateY(-180deg);
   transform: rotateY(-180deg);
